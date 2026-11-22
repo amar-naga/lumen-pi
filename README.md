@@ -64,7 +64,7 @@ The Homebridge UI is still there at **http://homebridge.local** for plugin setti
 | Nothing after 10 minutes | Check the Pi's green light is flickering. Re-flash the card and make sure the hostname and Wi-Fi were set in Imager. |
 | A brand isn't found by the scan | Pick it from the full list on the Brands step; the scan only sees devices that are switched on and on the same network. |
 | Devices show **No Response** in Home | Open Lumen → **Home health**. It shows which plugin or device is the cause and what to do. |
-| Forgot the password | Re-flashing starts over. Your Apple Home setup will need adding again. |
+| Forgot the password | Ask the person who sent you the link: there is a reset that keeps your setup. Re-flashing the card also works, but then Apple Home needs adding again. |
 
 ## Updates
 
